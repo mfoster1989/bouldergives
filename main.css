@@ -9,15 +9,23 @@ body {
   justify-content: space-between;
 }
 
+main {
+  background-image: url(/media/c.jpg);
+  background-color: #cccccc;
+  height: 79vh;
+}
+
 nav {
   background-color: yellow;
 }
 
 header, footer {
   background-color: blue;
+  height: 10vh;
 }
 
 footer {
+
   position:fixed;
   bottom:0;
   left:0;
