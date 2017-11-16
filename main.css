@@ -1,7 +1,12 @@
 header {
   display: flex;
   justify-content: space-between;
-  align-items: stretch;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 nav {
@@ -10,5 +15,14 @@ nav {
 
 header, footer {
   background-color: blue;
+}
+
+footer {
+  position:fixed;
+  bottom:0;
+  left:0;
+}
+
+.listing {
 
 }
