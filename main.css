@@ -1,7 +1,14 @@
-body {
-  /*background-color: yellow;*/
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+nav {
+  background-color: yellow;
 }
 
 header, footer {
   background-color: blue;
+
 }
