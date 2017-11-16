@@ -11,6 +11,7 @@ body {
 
 main {
   background-image: url(/media/C.jpg);
+  background-size: 100%;
   background-color: #cccccc;
   height: 79vh;
 }
