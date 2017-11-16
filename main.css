@@ -1,3 +1,7 @@
 body {
-  background-color: yellow;
+  /*background-color: yellow;*/
+}
+
+header, footer {
+  background-color: blue;
 }
